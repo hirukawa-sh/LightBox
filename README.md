@@ -6,6 +6,8 @@ Unityで開発した、スマートフォン向けゲームアプリです。202
 
 なお、ここで公開されているスクリプトは、自身で作成した部分のみであり、  
 使用したライブラリのスクリプトや、画像などのアセット等は非公開となっています。
+## .apkファイル
+https://github.com/hirukawa-sh/LightBox/releases/download/untagged-cb1fe72e0ffcbe1e2156/LightBox.apk
 ## URL（Youtube）
 https://www.youtube.com/watch?v=6jIykzQpR38
 ## 使用した技術、言語
